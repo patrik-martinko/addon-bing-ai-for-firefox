@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Bing AI for Firefox",
-    "description": "This extension allows using Bing AI chatbot with Mozilla Firefox.",
-    "version": "1.0.0",
+    "description": "Allows using Bing AI chatbot with Mozilla Firefox.",
+    "version": "1.1.1",
     "permissions": [
         "webRequest",
         "webRequestBlocking",
