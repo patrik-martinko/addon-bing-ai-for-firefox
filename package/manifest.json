@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Bing AI for Firefox",
     "description": "Removes the limits of Microsoft Copilot / Bing AI (ChatGPT v4) for Mozilla Firefox.",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "permissions": [
         "webRequest",
         "webRequestBlocking",
