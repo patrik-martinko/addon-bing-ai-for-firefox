@@ -1,12 +1,13 @@
 {
     "manifest_version": 2,
     "name": "Bing AI for Firefox",
-    "description": "Allows using Bing AI chatbot with Mozilla Firefox.",
-    "version": "1.2.0",
+    "description": "Removes the limits of Microsoft Colipot or Bing AI (ChatGPT v4) for Mozilla Firefox.",
+    "version": "1.2.1",
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "https://*.bing.com/*"
+        "https://*.bing.com/*",
+        "https://copilot.microsoft.com/*"
     ],
     "background": {
         "scripts": [
